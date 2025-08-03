@@ -33,29 +33,3 @@ A comprehensive Electronic Voting System built for Android that enables secure, 
 | **Sync**     | Realtime data via Firebase           |
 | **Notifications** | Android Push Notifications     |
 
-## 📸 App Screenshots
-
-### 🔐 Login Screen
-![Login Screen](login.jpeg)
-
-### 🗳️ Cast Vote Screen
-![Cast Vote](cast vote.jpeg)
-
-### ✅ Vote Confirmation
-![Vote Confirmation](vote confirmation.jpeg)
-
-### 📊 Results View
-![Results](results.jpeg)
-
-### 🧑‍💼 Admin Panel
-![Admin Panel](admin panel.jpeg)
-
-### 📣 Announcements
-![Announcements](announcements.jpeg)
-
-### 🧾 Voter Dashboard
-![Voter Dashboard](voter dashboard.jpeg)
-
-### ⏳ Voting Session
-![Voting Session](voting session.jpeg)
-
